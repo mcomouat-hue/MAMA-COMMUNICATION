@@ -1,1 +1,1 @@
-https://github.com/mcomouat-hue/MAMA-COMMUNICATION.git
+https://mcomouat-hue/MAMA-COMMUNICATION.com
